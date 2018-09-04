@@ -49,7 +49,7 @@
 			},
 			
 			getData : function(index){
-				console.log("进入方法");
+				//console.log("进入方法");
 				var _self = this;
 				  $.ajax({
                     type : "GET",
